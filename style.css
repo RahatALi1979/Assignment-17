@@ -1,0 +1,70 @@
+.navbar {
+    display: flex;
+}
+.jawanpakistan {
+    /* display: flex; */
+    background-color: whitesmoke;
+    height: 600px;
+    margin: 20px;
+}
+
+.jawan {
+    width: 200px;
+    border-right: 1px solid green;
+    padding: 5px;
+    /* position: absolute;
+    top: 10px; */
+}
+.downarrow {
+    width: 25px;
+    height: 25px;
+}
+/* .navbar {
+    display: inline-block;
+} */
+.right {
+    /* display: inline-block; */
+    /* text-align: center; */
+    margin-left: 20px;
+}
+.right > a {
+    padding: 5px;
+}
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+.right1 > img {
+    width: 450px;
+    /* margin-left: 200px; */
+    padding-right: 5px;
+}
+.left1 {
+    width: 600px;
+    padding-left: 5px;
+}
+.left2 > img {
+    margin-top: 20px;
+    width: 450px;
+    /* padding-left: 200px; */
+    padding-left: 5px;
+}
+
+.jawanpakistan1 {
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 100px;
+    margin-right: 400px; */
+    height: 600px;
+    margin: 20px;
+    background-color: lightgray;
+
+}
+.right2 {
+    width: 600px;
+    padding-left: 5px;
+}
